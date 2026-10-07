@@ -1,0 +1,23 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Environment and secret files
+.env
+.env.*
+credentials.json
+secrets.json
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Google Apps Script local configuration
+.clasp/
